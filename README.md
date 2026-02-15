@@ -1,6 +1,6 @@
 # Header -README Template. 
 
-![Github Logo](https://github.githubassets.com/images/modules/logos_page/Octocat.png "Github logo - markdown")
+![Kilroy Was Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kilroy_was_here.svg/800px-Kilroy_was_here.svg.png "Kilroy was here")
 
 <a class="anchor" id="about the project"></a>
 >## About the Project
