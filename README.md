@@ -1,6 +1,6 @@
 # Header -README Template. 
 
-![Kilroy Was Here](kilroy.png "Kilroy was here")
+![Kilroy Was Here](Kilroy_was_here.png "Kilroy was here")
 
 <a class="anchor" id="about the project"></a>
 >## About the Project
